@@ -179,5 +179,5 @@ Updates will be published on this page with a revised “Last Updated” date. U
 If you have questions or concerns about this Privacy Policy or DocScanner’s privacy practices, contact:
 
 **Developer:** Binod Basnet
-**Application:** DocScanner
+**Application:** Doc Scanner
 **Email:** [binod.basnet777@gmail.com](mailto:binod.basnet777@gmail.com)
